@@ -21,9 +21,9 @@
 
 ## 🛠️ About The Project
 
-I have built this project in motivation of my difficulties when developing some personal projects.<br>So, in a try of helping some new programmers I published this template repository.<br>If this helped you, please leave a star. 🙂
+I created this project to overcome my difficulties when developing some personal projects.<br>So, in an attempt to help some new programmers I published this template repository.<br>If this helps you, please leave a star. 🙂
 <br><br>
-Basically, this project is the recipe to build dynamic forms.<br>When you click (+), It add one more field to type and later save all the fields in a database.
+Basically, this project is the recipe to build dynamic forms.<br>When you click (+), It add one more field to type and then saves all the fields.
 
 ## 💻 Project Working
 
